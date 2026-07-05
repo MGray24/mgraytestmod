@@ -1,0 +1,10 @@
+{
+	"id": "mgraytest",
+	"name": "Mgraytest",
+	"display_name": "Mgraytest",
+	"author": ["Mason Gray"],
+	"description": "Test mod to change some balatro variables",
+	"prefix": "MGRAYTST",
+	"main_file": "main.lua",
+	"version": "0.0.1"
+}
