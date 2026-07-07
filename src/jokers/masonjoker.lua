@@ -1,3 +1,5 @@
+---@diagnostic disable: undefined-global
+
 SMODS.Joker {
     key = 'masonjoker',
     atlas = 'masonjoker',

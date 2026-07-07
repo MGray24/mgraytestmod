@@ -1,3 +1,5 @@
+---@diagnostic disable: undefined-global
+
 --assert(SMODS.load_file("src/editions.lua"))()
 
 -- local function patch_foil()
